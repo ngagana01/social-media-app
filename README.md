@@ -1,6 +1,5 @@
 # ConnectHub - Full Stack Social Media App
 
-A Week 07 Minor Project built with React, Node.js, Express.js, MongoDB, JWT authentication, and REST APIs.
 
 ## Features
 - User registration and login
@@ -19,11 +18,10 @@ A Week 07 Minor Project built with React, Node.js, Express.js, MongoDB, JWT auth
 ```bash
 cd backend
 npm install
-copy .env.example .env
+
 npm run dev
 ```
 
-Set `MONGODB_URI` and `JWT_SECRET` in `.env`.
 
 ### Frontend
 ```bash
